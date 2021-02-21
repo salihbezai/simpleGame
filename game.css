@@ -1,6 +1,7 @@
 *{
     padding: 0;
     margin: 0;
+    background: #d8d8d8;
 }
 .body-game{
     display: flex;
@@ -11,6 +12,7 @@
 width: 500px;
 height: 200px;
 border: 1px solid black;
+background: #d0c3c3;
 }
 #character{
     width: 20px;
@@ -19,6 +21,7 @@ border: 1px solid black;
     position: relative;
     top: 150px;
 }
+/**/
 .animate{
     animation: character 500ms 1;
 }
