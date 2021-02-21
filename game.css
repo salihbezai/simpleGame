@@ -21,6 +21,7 @@ background: #d0c3c3;
     position: relative;
     top: 150px;
 }
+/**/
 .animate{
     animation: character 500ms 1;
 }
